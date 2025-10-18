@@ -113,11 +113,7 @@ Me chamo Matheus Batista Rodrigues, tenho 22 anos e sou natural de Pernambuco. P
 />
 
           
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/MBatista15/MBatista15/output/snake.svg" alt="Snake animation" />
 
 ---
 
