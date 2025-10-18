@@ -1,26 +1,139 @@
-👋 Olá, eu sou Matheus!
+# 👨🏾‍💻 Matheus Batista
 
-👨‍💻 Desenvolvedor Front-End | 🌐 Apaixonado por Criar Experiências Web
+**`Desenvolvedor Web`**
 
-📚 Atualmente aprendendo as maravilhas do desenvolvimento web e explorando o emocionante mundo das tecnologias front-end. Adoro transformar ideias criativas em interfaces interativas e atraentes.
+Me chamo Matheus Batista Rodrigues, tenho 22 anos e sou natural de Pernambuco. Possuo alguns cursos na área de tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub e LinkedIn, onde publico alguns projetos que conclui e certificados.
 
-🚀 Algumas coisas sobre mim:
-- 👨‍🎓 Formando em Análise e Desenvolvimento de Sistemas.
-- 🌱 Sempre em busca de novos conhecimentos e aprendizado contínuo.
-- 🎨 Fascinado pela combinação de design e código para criar produtos bonitos e funcionais.
-- 🤝 Aberto a colaborações e oportunidades de aprendizado.
+<p align="center">
+  <a href="https://github.com/MBatista15?tab=repositories&sort=stargazers">
+    <img 
+        alt="total estrelas" 
+        title="Total de estrelas no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/MBatista15?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+        </a>
+  <a href="https://github.com/MBatista15?tab=followers">
+    <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/MBatista15?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&person-add&label=Seguidores&logoColor=white"/>
+            </a>
+</p>
 
-💼 Habilidades:
-HTML | CSS | JavaScript | React | Ferramentas de Design Básicas | Java (em aprendizado) | Bootstrap
+---
 
-🌟 Adoraria fazer parte da comunidade de desenvolvedores e contribuir para projetos empolgantes.
-
-📫 Entre em contato:
-E-mail: matheusbgusmao12@gmail.com | LinkedIn: https://www.linkedin.com/in/matheus-batista-857a47236/
+### 🤖 Linguagens e Tecnologias
 
 
+<img 
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+
+<img 
+    align="left"
+    alt="BootStrap"
+    title="BootStrap"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+
+<img 
+    align="left"
+    alt="Java"
+    title="Java"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+
+<img 
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+
+
+<img 
+    align="left"
+    alt="TypeScript"
+    title="TypeScript"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<img 
+    align="left"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=MBatista15&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
+
+<img 
+    align="left"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBatista15&theme=tokyonight&custom_title=Tecnologias&langs_count=6"
+/>
+
+          
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
 </picture>
+
+---
+
+### 📫 Entre em Contato
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img 
+    height="30px"
+    style="padding-right: 10px;"
+    src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheusbgusmao12@gmail" 
+    alt="Gmail"/>
+</a>
+  <a href="#" title="LinkedIn">
+  <img 
+    height="30px"
+    src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-batista-857a47236" 
+    alt="LinkedIn"/>
+</a>
