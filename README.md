@@ -123,17 +123,18 @@ Me chamo Matheus Batista Rodrigues, tenho 22 anos e sou natural de Pernambuco. P
 
 ### 📫 Entre em Contato
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img 
-    height="30px"
-    style="padding-right: 10px;"
-    src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheusbgusmao12@gmail" 
-    alt="Gmail"/>
+ <p align="center">
+ <a 
+    href = "mailto:matheusbgusmao12@gmail.com">
+ <img 
+    src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+    target="_blank">
 </a>
-  <a href="#" title="LinkedIn">
-  <img 
-    height="30px"
-    src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-batista-857a47236" 
-    alt="LinkedIn"/>
-</a>
+<a 
+    href="https://www.linkedin.com/in/matheus-batista-857a47236" 
+    target="_blank">
+<img 
+    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    target="_blank">
+</a> 
+ </p>
